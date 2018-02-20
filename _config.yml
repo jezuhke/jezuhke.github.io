@@ -1,0 +1,34 @@
+# Dependencies
+markdown:            kramdown
+highlighter:         rouge
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Jesus Herman-Marina
+tagline:             'UX/UI from Barcelona'
+description:         'Escribo sobre diseño, desarrollo, hacking y making'
+url:
+giturl:				       https://jezuhke.github.io
+baseurl:             https://jezuhke.github.io/
+paginate:            5
+rss:                 atom.xml
+
+# About/contact
+author:
+  name:             Jesus Herman-Marina
+  github:           jezuhke
+  behance:          jhmarina
+  email:            jhmarina@gmail.com
+  linkedin:         jesusherman
+  goodreads:        62752702-jesus-herman
+  gravatar_md5:     7dc234e9aeb6d6d0aec317b18ba6a95a
+
+# Custom vars
+version:             1.0.0
+
+github:
+  repo:           https://github.com/jezuhke/jezuhke.github.io
