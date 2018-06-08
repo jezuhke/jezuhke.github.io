@@ -13,7 +13,7 @@ tagline:             'UX/UI from Barcelona'
 description:         'Escribo sobre diseño, desarrollo, hacking y making'
 url:
 giturl:				       https://jezuhke.github.io
-baseurl:             https://jezuhke.github.io/
+baseurl:             
 paginate:            5
 rss:                 atom.xml
 

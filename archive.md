@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archives
+title: Artículos
 ---
 
 {% for post in site.posts %}
